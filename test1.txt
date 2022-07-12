@@ -1,1 +1,2 @@
 First empty file
+Second entry
